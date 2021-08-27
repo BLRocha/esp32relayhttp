@@ -1,4 +1,4 @@
-# Servitor para Relay com ESP32.
+# Servidor para controlar Relay com ESP32.
 
 ### Sobre.
 
