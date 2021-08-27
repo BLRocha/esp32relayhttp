@@ -2,7 +2,7 @@
 
 ### Sobre.
 
-Recentemente compre alguns Arduinos Nano, UNO e ESP32.
+Recentemente adquirir alguns Arduinos Nano, UNO e ESP32.
 Com intuito de aprender um pouco sobre estas magníficas ferramentas de prototipação,
 Criei um pequeno server http com ESP32 Wroom 32.
 
